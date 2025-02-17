@@ -11,7 +11,7 @@ This project automates a redundant web-based business task using Python, Seleniu
 - ✅ Restart & Refresh Capabilities – Built-in reset button allows users to quickly restart the process without manually relaunching the script.
 
 📂 Technologies Used:
-Python 🐍
-Selenium (Web Automation)
-Tkinter (GUI)
-WebDriverWait (Ensuring page elements load)
+- Python 🐍
+- Selenium (Web Automation)
+- Tkinter (GUI)
+- WebDriverWait (Ensuring page elements load)
